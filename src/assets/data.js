@@ -10,6 +10,17 @@ export const data = [
     ans: 2
     },
     {
+        question: "Who is known as the 'Father of Computers'?",
+       
+            option1: "Bill Gates",
+            option2: "Alan Turing",
+            option3: "Steve Jobs",
+            option4: "Charles Babbage",
+        
+    ans: 3
+    }
+    ,
+    {
         question: "Which continent is home to the Amazon Rainforest?",
        
             option1: "Africa",
@@ -87,15 +98,5 @@ export const data = [
             option4: "K2",
         
     ans: 1
-    },
-    {
-        question: "Who is known as the 'Father of Computers'?",
-       
-            option1: "Bill Gates",
-            option2: "Alan Turing",
-            option3: "Steve Jobs",
-            option4: "Charles Babbage",
-        
-    ans: 3
     }
 ];

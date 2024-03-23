@@ -19,6 +19,7 @@ body{
     padding-top: 40px;
     padding-left: 50px;
     padding-right: 50px;
+    padding-bottom: 20px;
 }
 .container hr{
     height:2px;
@@ -60,4 +61,12 @@ body{
 .container .wrong{
     background: white;
    background-color:  rgba(255, 74, 74, 0.4);
+}
+.index{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:5500;
+}
+p{
+    font-size: larger;
+    font-family;
 }
