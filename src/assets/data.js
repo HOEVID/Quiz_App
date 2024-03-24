@@ -26,26 +26,5 @@ ans: 4
         option4: "Casual conversations with friends and family",
         
 ans: 2
-    },
-    {
-        question: "What is the first thing i said today when we met",
-       
-            option1: "Hi,How are you",
-            option2: "Dekha nahi aapne mujhe ananya",
-            option3: "Santhoshi mata ka mandir kihar hai",
-            option4: "Yahin toh khada tha mai",
-        
-    ans: 4
-    },
-    {
-        question: "Ananya ke aaj kitni baar bola ki maar padegi",
-        
-        option1: "8400976571",
-            option2: "6",
-            option3: "20",
-            option4: "17",
-           
-   
-    ans: 1
     }
 ];

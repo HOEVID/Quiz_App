@@ -53,7 +53,7 @@ const App = () => {
     }
   return (
     <div className='container'>
-        <h1>Tamatar ki quiz</h1>
+        <h1>Quiz appp</h1>
         <hr/>
        {result?<>
        </>:<>
